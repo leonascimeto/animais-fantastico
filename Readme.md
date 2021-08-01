@@ -1,4 +1,4 @@
-<h1>Projeto Animais fantasticos<h1>
+<h1>Projeto Animais fantasticos</h1>
 
 Projeto realizado em javascript puro.
 
