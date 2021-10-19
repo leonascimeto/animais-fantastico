@@ -12,3 +12,5 @@ Projeto realizado em javascript puro.
   <li>Menu responsivo</li>
   <li>Tooltips</li>
 </ul>
+
+Demo: https://leonascimeto.github.io/animais-fantastico/
